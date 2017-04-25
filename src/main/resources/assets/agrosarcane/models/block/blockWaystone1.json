@@ -1,0 +1,40 @@
+{
+	"textures": {
+		"pedestal": "agrosarcane:blocks/blockWaystone",
+		"particle": "agrosarcane:blocks/blockWaystone"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 4, 16],
+			"faces": {
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#pedestal",
+					"cullface": "down"
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture":"#pedestal",
+					"cullface": "up"
+				},
+				"north": {
+					"uv": [0, 0, 16, 4],
+					"texture": "#pedestal"
+				},
+				"south": {
+					"uv": [0, 0, 16, 4],
+					"texture": "#pedestal"
+				},
+				"west": {
+					"uv": [0, 0, 16, 4],
+					"texture": "#pedestal"
+				},
+				"east": {
+					"uv": [0, 0, 16, 4],
+					"texture": "#pedestal"
+				}
+			}
+		}
+	]
+}
