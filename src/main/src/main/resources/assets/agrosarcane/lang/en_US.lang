@@ -1,0 +1,8 @@
+# Items
+item.shardWaystone.name=Waystone Shard
+
+# Blocks
+tile.blockWaystone.name=Waystone Block
+
+# Tabs
+itemGroup.agrosarcane=Agros Arcane

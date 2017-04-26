@@ -1,0 +1,24 @@
+{
+	"forge_marker": 1,
+	"default" : {
+		"textures": {
+			"all" : "agrosarcane:blockWaystone7"
+		}
+	},
+	"variants": {
+		"type": {
+			"7": {"model" : "agrosarcane:blockWaystone7"},
+			"6": {"model" : "agrosarcane:blockWaystone6"},
+			"5": {"model" : "agrosarcane:blockWaystone5"},
+			"4": {"model" : "agrosarcane:blockWaystone4"},
+			"3": {"model" : "agrosarcane:blockWaystone3"},
+			"2": {"model" : "agrosarcane:blockWaystone2"},
+			"1": {"model" : "agrosarcane:blockWaystone1"},
+			"0": {"model" : "agrosarcane:blockWaystone0"}
+		},		
+		"inventory": {
+			"model" : "agrosarcane:blockWaystone7",
+			"transform" : "forge:default-block"
+		}
+	}
+}

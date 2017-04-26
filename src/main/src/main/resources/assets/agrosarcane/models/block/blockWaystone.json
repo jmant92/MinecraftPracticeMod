@@ -1,0 +1,61 @@
+{
+	"textures": {
+		"pedestal": "agrosarcane:blocks/blockWaystone",
+		"particle": "agrosarcane:blocks/blockWaystone"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 11, 13],
+			"faces": {
+				"down": {
+					"uv": [0, 0, 10, 10],
+					"texture": "#pedestal",
+					"cullface": "down"
+				},
+				"north": {
+					"uv": [0, 0, 10, 11],
+					"texture": "#pedestal"
+				},
+				"south": {
+					"uv": [0, 0, 10, 11],
+					"texture": "#pedestal"
+				},
+				"west": {
+					"uv": [0, 0, 10, 11],
+					"texture": "#pedestal"
+				},
+				"east": {
+					"uv": [0, 0, 10, 11],
+					"texture": "#pedestal"
+				}
+			}
+		},
+		{
+			"from": [2, 11, 2],
+			"to": [14, 12, 14],
+			"faces": {
+				"down": {
+					"uv": [0, 0, 12, 12],
+					"texture": "#pedestal"
+				},
+				"north": {
+					"uv": [0, 0, 12, 1],
+					"texture": "#pedestal"
+				},
+				"south": {
+					"uv": [0, 0, 12, 1],
+					"texture": "#pedestal"
+				},
+				"west": {
+					"uv": [0, 0, 12, 1],
+					"texture": "#pedestal"
+				},
+				"east": {
+					"uv": [0, 0, 12, 1],
+					"texture": "#pedestal"
+				}
+			}
+		}
+	]
+}
